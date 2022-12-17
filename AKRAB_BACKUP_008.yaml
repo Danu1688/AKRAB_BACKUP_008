@@ -1,5 +1,5 @@
 proxies:
-- name: danu08
+- name: danuWs08
   type: trojan
   server: 172.67.199.34
   port: 443
